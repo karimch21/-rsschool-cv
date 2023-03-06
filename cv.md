@@ -59,4 +59,4 @@ As part of the last completed course JS/Front-end developer Stage #0 completed p
 ## Languages
 
 * Russian - native speaker.
-* English - A2
+* English - A2 (Elementary)
