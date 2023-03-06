@@ -27,3 +27,22 @@ I am 23 years old, I graduated from a higher educational institution KNITU-KAI w
 * JavaScript 
 * Git/GitHub
 * Photoshop, Figma
+
+
+## Code examples
+
+_Task:_
+Complete the function/method so that it returns the url with anything after the anchor (#) removed.
+
+````
+function removeUrlAnchor(url){
+  return url.replace(/#.+/gi, '')
+}
+````
+
+
+## Work experience:
+As part of the last completed course JS/Front-end developer Stage #0 completed projects such as:
+1. [Travel](https://rolling-scopes-school.github.io/karimch21-JSFEPRESCHOOL2022Q2/travel/index.html).  Where predominantly HTML, CSS and responsive layout for mobile devices
+2. [Momentum](https://rolling-scopes-school.github.io/karimch21-JSFEPRESCHOOL2022Q2/stage1-tasks-momentum/). Where prevails JS, but also made layout and adaptive for mobile devices.
+3. [Eldritch-Horror](https://rolling-scopes-school.github.io/karimch21-JSFEPRESCHOOL2022Q2/eldritch-codejam/index.html). Small board game helper app. Implemented deck mixing algorithm.
