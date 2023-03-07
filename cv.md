@@ -27,6 +27,7 @@ I am 23 years old, I graduated from a higher educational institution KNITU-KAI w
 * Git/GitHub
 * Photoshop, Figma
 
+
 ## Code examples
 
 _Task:_
@@ -56,5 +57,6 @@ As part of the last completed course JS/Front-end developer Stage #0 completed p
 
 ## Languages
 
-* Russian - native speaker.
-* English - A2(Elementary)
+* Russian - native speaker
+* English - A2 (Elementary)
+
